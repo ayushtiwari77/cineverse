@@ -1,0 +1,39 @@
+email - quizzicalpanini@imcourageous.com
+username - cineverseproject77
+
+apikey - 3eaf6f3d35fc750ff6fa12ae7c8c4399
+
+accestoken api - eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzZWFmNmYzZDM1ZmM3NTBmZjZmYTEyYWU3YzhjNDM5OSIsIm5iZiI6MTcyMzQ3NzA1Ni41MDc2MjcsInN1YiI6IjY2YmEyYTAwMjYwODA1ZjFmNTI1ODAxYSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.P2JDtgaSZfuidNuc-FOw5yf5FIG79tzWXtL3WturFwI
+
+
+nowplaying
+https://api.themoviedb.org/3/movie/now_playing?api_key=3eaf6f3d35fc750ff6fa12ae7c8c4399
+
+
+popular
+https://api.themoviedb.org/3/movie/popular?api_key=3eaf6f3d35fc750ff6fa12ae7c8c4399
+
+
+top rated
+https://api.themoviedb.org/3/movie/top_rated?api_key=3eaf6f3d35fc750ff6fa12ae7c8c4399
+
+
+upcoming
+https://api.themoviedb.org/3/movie/upcoming?api_key=3eaf6f3d35fc750ff6fa12ae7c8c4399
+
+
+moviedetail
+https://api.themoviedb.org/3/movie/{movie_id}?api_key=3eaf6f3d35fc750ff6fa12ae7c8c4399
+
+
+search
+
+https://api.themoviedb.org/3/search/movie?api_key=3eaf6f3d35fc750ff6fa12ae7c8c4399&query={movie_name}
+
+
+for images 
+https://image.tmdb.org/t/p/w500/{posterpath}
+
+
+tovisit any imdb movie 
+https://www.imdb.com/title/{imdb  code}/
